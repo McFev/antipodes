@@ -28,6 +28,7 @@
 - Расчёты выполнены на основе современных геоданных (Natural Earth 2024+) и обработаны с использованием GeoPandas 1.0+ и Shapely 2.x.
 
 ## Как посмотреть
+- Скачать [antipodes.kml](https://github.com/McFev/antipodes/blob/main/antipodes.kml)
 - Открыть [google earth](https://earth.google.com/web/)
 - Нажать `+ Новый`
 - Нажать `Открыть локальный KML-файл`
